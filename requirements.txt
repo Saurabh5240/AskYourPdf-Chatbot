@@ -11,7 +11,7 @@ sentence_transformers
 duckdb==0.7.1
 chromadb
 beautifulsoup4==4.12.2
-transformers == 4.39.3
+transformers == 4.4.0
 sentence-transformers==2.2.2
 sentencepiece==0.1.99
 six==1.16.0
