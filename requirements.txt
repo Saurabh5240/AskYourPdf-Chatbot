@@ -9,7 +9,6 @@ pdfminer.six==20221105
 bs4==0.0.1
 sentence_transformers
 duckdb==0.7.1
-chroma-migrate  =  0.0.7
 chromadb  = 0.3.29
 beautifulsoup4==4.12.2
 sentence-transformers==2.2.2
